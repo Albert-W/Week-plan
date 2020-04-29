@@ -22,6 +22,7 @@
 于是我基于Excel，开发了一个时间管理软件。
 
 以下为软件介绍：
+
 1，主界面如下：
 
 ![Snipaste_2020-04-29_11-35-00](https://user-images.githubusercontent.com/21038139/80590823-7e3b0e80-8a14-11ea-92b0-8fdb400ef1b1.png)
